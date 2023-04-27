@@ -8,7 +8,6 @@ class Movislider extends StatelessWidget {
     return Container(
       width: double.infinity,
       height: 250,
-      color: Colors.red,
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
